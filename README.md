@@ -6,6 +6,15 @@
 - 💞️ I’m looking to collaborate on JavaScript and PHP projects
 - 📫 How to reach me @KuntakinteNii on twitter, kwadejeffrey@gmail.com
 Hobbies include gaming, open source and music
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebelNii&hide_border=true&layout=compact" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=RebelNii&show_icons=true&count_private=true&hide_border=true" align="left" /> 
+
+<br/>
 
 ## 💼 Tech Stack
 
