@@ -2,7 +2,7 @@
 - A Ghanaian developer
 - 👀 I’m interested in Web development
 <br/> 
-![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge)
+![Connect on Twitter](https://img.shields.io/twitter/follow/kuntakinteNii?logo=Twitter&color=1DA1F2&style=for-the-badge)
 <br/>
 
 
