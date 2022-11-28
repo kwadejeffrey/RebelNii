@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jeffrey
-- A Ghanaian developer
 - 👀 I’m interested in Web development
 <br/>
 
