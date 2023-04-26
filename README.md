@@ -47,10 +47,10 @@ You can click the Preview link to take a look at your changes.
 <!-- Stats and Tech Stack -->
 ## <p style="margin-top: 10px;">Github Stats</p>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-top: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebelNii&hide_border=true&layout=compact" style="width: 400px; height: 200px;" />
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin-left: 50px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=RebelNii&show_icons=true&count_private=true&hide_border=true" style="width: 400px; height: 200px;" />
   </div>
 </div>
